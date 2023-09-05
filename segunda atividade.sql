@@ -12,7 +12,7 @@ use segundo_exercicios_banco_de_dados;
  autores varchar (30),
  ano varchar (6) 
  );
- describe livros;
+ describe livros; 
  insert into livros values
  (null, "Aventuras", "Autor1, Autor2, Autor3","2005"),
  (null,"Romance", "Autor4", "2010"),
